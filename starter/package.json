@@ -1,0 +1,26 @@
+{
+  "name": "nexter",
+  "version": "1.0.0",
+  "description": "Nexter project",
+  "default": "index.html",
+  "scripts": {
+    "start": "npm-run-all --parallel parcel watch",
+    "parcel": "parcel index.html",
+    "watch": "sass sass/main.scss sass/main.css --watch",
+    "build": "parcel build index.html --dist-dir ./dist",
+    "ifStartFails": "concurrently --kill-others \"npm run parcel\"  \"npm run watch\""
+  },
+  "author": "Marcelle",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.1",
+    "concurrently": "^5.3.0",
+    "npm-run-all": "^4.1.5",
+    "parcel": "^2.0.0-beta.1",
+    "sass": "^1.26.10"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "regenerator-runtime": "^0.13.7"
+  }
+}
