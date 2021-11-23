@@ -1,3 +1,33 @@
 .features {
-  background-color: $color-grey-light-2;
+  grid-column: center-start / center-end;
+
+  margin: 15rem 0;
+
+  display: grid;
+  //grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(25rem, 1fr)
+  ); //making more responsive: auto-fit creates as many tracks as can fit base on the width defined
+  grid-gap: 6rem;
+  align-items: start;
+}
+
+.feature {
+  display: grid;
+  grid-template-columns: min-content 1fr; // no template-row needed, in this case.
+  grid-row-gap: 1.5rem;
+  grid-column-gap: 2.5rem;
+
+  &__icon {
+    fill: $color-primary; // change  the color of the svg icon
+    width: 4.5rem;
+    height: 4.5rem;
+    grid-row: 1 / span 2; // 1/-1 means the end of explicit grid,  if there is no explicit  grid -1 will not work
+    transform: translateY(-1rem);
+  }
+
+  &__text {
+    font-size: 1.7rem;
+  }
 }
