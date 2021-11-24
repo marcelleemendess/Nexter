@@ -1,6 +1,6 @@
 28153
 62C:\Users\ASUS\Nexter\starter\node_modules\create-ecdh\index.js121436361000000000 0
-46C:\Users\ASUS\Nexter\starter\sass\main.css.map132820970280364076 0
+46C:\Users\ASUS\Nexter\starter\sass\main.css.map132822420252325506 0
 69C:\Users\ASUS\Nexter\starter\node_modules\date-fns\locale\te\index.js121436361000000000 0
 73C:\Users\ASUS\Nexter\starter\node_modules\date-fns\esm\locale\ht\index.js121436361000000000 0
 71C:\Users\ASUS\Nexter\starter\node_modules\jake\test\integration\rule.js132361568290000000 0
@@ -14,7 +14,7 @@
 77C:\Users\ASUS\Nexter\starter\node_modules\w3c-xmlserializer\lib\attributes.js121436361000000000 0
 98C:\Users\ASUS\Nexter\starter\node_modules\css-modules-loader-core\node_modules\postcss\lib\node.js131386303530000000 0
 71C:\Users\ASUS\Nexter\starter\node_modules\rxjs\src\operator\throttle.ts121436361000000000 0
-33C:\Users\ASUS\Nexter\starter\dist132820969727846021 1
+33C:\Users\ASUS\Nexter\starter\dist132821759699130198 1
 55C:\Users\ASUS\Nexter\starter\node_modules\alphanum-sort132815673558352689 1
 81C:\Users\ASUS\Nexter\starter\node_modules\date-fns\fp\eachYearOfInterval\index.js121436361000000000 0
 91C:\Users\ASUS\Nexter\starter\node_modules\rxjs\_esm2015\internal\observable\interval.js.map121436361000000000 0
@@ -30,7 +30,7 @@
 64C:\Users\ASUS\Nexter\starter\node_modules\xmlchars\xmlchars.d.ts121436361000000000 0
 67C:\Users\ASUS\Nexter\starter\node_modules\rxjs\_esm5\fetch\index.js121436361000000000 0
 76C:\Users\ASUS\Nexter\starter\node_modules\tough-cookie\node_modules\punycode132815673530805704 1
-47C:\Users\ASUS\Nexter\starter\sass\_sidebar.scss132820970225499881 0
+47C:\Users\ASUS\Nexter\starter\sass\_sidebar.scss132821576062987435 0
 93C:\Users\ASUS\Nexter\starter\node_modules\jsdom\lib\jsdom\living\nodes\HTMLPreElement-impl.js121436361000000000 0
 45C:\Users\ASUS\Nexter\starter\img\house-3.jpeg132815536258163997 0
 62C:\Users\ASUS\Nexter\starter\node_modules\lodash\_mergeData.js121436361000000000 0
@@ -117,7 +117,7 @@
 87C:\Users\ASUS\Nexter\starter\node_modules\rxjs\_esm2015\internal\observable\from.js.map121436361000000000 0
 78C:\Users\ASUS\Nexter\starter\node_modules\rxjs\src\operators\withLatestFrom.ts121436361000000000 0
 69C:\Users\ASUS\Nexter\starter\node_modules\spdx-license-ids\index.json121436361000000000 0
-42C:\Users\ASUS\Nexter\starter\sass\main.css132820970280424085 0
+42C:\Users\ASUS\Nexter\starter\sass\main.css132822420252515513 0
 59C:\Users\ASUS\Nexter\starter\node_modules\lodash\isEqual.js121436361000000000 0
 94C:\Users\ASUS\Nexter\starter\node_modules\rxjs\_esm2015\internal\operators\windowToggle.js.map121436361000000000 0
 92C:\Users\ASUS\Nexter\starter\node_modules\rxjs\_esm5\internal\scheduled\scheduleArray.js.map121436361000000000 0
@@ -144,7 +144,7 @@
 47C:\Users\ASUS\Nexter\starter\node_modules\p-try132815673525272858 1
 60C:\Users\ASUS\Nexter\starter\node_modules\lodash\toFinite.js121436361000000000 0
 71C:\Users\ASUS\Nexter\starter\node_modules\stream-browserify\security.md121436361000000000 0
-44C:\Users\ASUS\Nexter\starter\sass\_base.scss132820970250169858 0
+44C:\Users\ASUS\Nexter\starter\sass\_base.scss132822409947051703 0
 73C:\Users\ASUS\Nexter\starter\node_modules\rxjs\operators\bufferCount.d.ts121436361000000000 0
 56C:\Users\ASUS\Nexter\starter\node_modules\yaml\types.mjs121436361000000000 0
 67C:\Users\ASUS\Nexter\starter\node_modules\stylehacks\dist\exists.js121436361000000000 0
@@ -163,7 +163,7 @@
 72C:\Users\ASUS\Nexter\starter\node_modules\rxjs\src\operators\mergeAll.ts121436361000000000 0
 91C:\Users\ASUS\Nexter\starter\node_modules\@parcel\package-manager\src\promiseFromProcess.js121436361000000000 0
 82C:\Users\ASUS\Nexter\starter\node_modules\date-fns\esm\fp\lightFormat\package.json121436361000000000 0
-48C:\Users\ASUS\Nexter\starter\sass\_features.scss132816622764466600 0
+48C:\Users\ASUS\Nexter\starter\sass\_features.scss132822391925541749 0
 58C:\Users\ASUS\Nexter\starter\node_modules\ncp\package.json130691120730000000 0
 79C:\Users\ASUS\Nexter\starter\node_modules\slice-ansi\node_modules\color-convert132815673535797417 1
 83C:\Users\ASUS\Nexter\starter\node_modules\rxjs\_esm5\internal\util\Immediate.js.map121436361000000000 0
@@ -202,7 +202,7 @@
 55C:\Users\ASUS\Nexter\starter\node_modules\utility-types132815673672850382 1
 77C:\Users\ASUS\Nexter\starter\node_modules\caniuse-lite\data\features\const.js121436361000000000 0
 63C:\Users\ASUS\Nexter\starter\node_modules\css-what\package.json121436361000000000 0
-46C:\Users\ASUS\Nexter\starter\sass\_header.scss132820970278554073 0
+46C:\Users\ASUS\Nexter\starter\sass\_header.scss132822420248190296 0
 79C:\Users\ASUS\Nexter\starter\node_modules\uri-js\dist\esnext\schemes\https.d.ts121436361000000000 0
 59C:\Users\ASUS\Nexter\starter\node_modules\ignore\index.d.ts121436361000000000 0
 79C:\Users\ASUS\Nexter\starter\node_modules\@parcel\utils\lib\prettyDiagnostic.js121436361000000000 0
@@ -228,7 +228,7 @@
 50C:\Users\ASUS\Nexter\starter\node_modules\caseless132815673525988038 1
 89C:\Users\ASUS\Nexter\starter\node_modules\rxjs\_esm2015\internal\testing\HotObservable.js121436361000000000 0
 65C:\Users\ASUS\Nexter\starter\node_modules\acorn-walk\dist\walk.js121436361000000000 0
-48C:\Users\ASUS\Nexter\starter\sass\_realtors.scss132820916615060564 0
+48C:\Users\ASUS\Nexter\starter\sass\_realtors.scss132821759628509508 0
 87C:\Users\ASUS\Nexter\starter\node_modules\rxjs\_esm2015\internal\observable\generate.js121436361000000000 0
 89C:\Users\ASUS\Nexter\starter\node_modules\@parcel\codeframe\node_modules\chalk\index.d.ts121436361000000000 0
 91C:\Users\ASUS\Nexter\starter\node_modules\rxjs\_esm5\internal\operators\debounceTime.js.map121436361000000000 0
@@ -255,7 +255,7 @@
 80C:\Users\ASUS\Nexter\starter\node_modules\date-fns\locale\eo\_lib\formatDistance132815673931418241 1
 73C:\Users\ASUS\Nexter\starter\node_modules\date-fns\esm\setDate\index.d.ts121436361000000000 0
 73C:\Users\ASUS\Nexter\starter\node_modules\date-fns\formatISO\package.json121436361000000000 0
-45C:\Users\ASUS\Nexter\starter\sass\_story.scss132817403068992441 0
+45C:\Users\ASUS\Nexter\starter\sass\_story.scss132821752804107977 0
 67C:\Users\ASUS\Nexter\starter\node_modules\core-js\es\parse-float.js121436361000000000 0
 90C:\Users\ASUS\Nexter\starter\node_modules\parcel\node_modules\color-convert\conversions.js121436361000000000 0
 56C:\Users\ASUS\Nexter\starter\node_modules\load-json-file132815673521378978 1
@@ -1201,7 +1201,7 @@
 65C:\Users\ASUS\Nexter\starter\node_modules\browserify-des\modes.js121436361000000000 0
 91C:\Users\ASUS\Nexter\starter\node_modules\rxjs\_esm2015\internal\observable\bindCallback.js121436361000000000 0
 52C:\Users\ASUS\Nexter\starter\node_modules\css-select132815673599294648 1
-54C:\Users\ASUS\Nexter\starter\dist\gal-12.06e0613d.jpeg132820968127394414 0
+54C:\Users\ASUS\Nexter\starter\dist\gal-12.06e0613d.jpeg132821596220382778 0
 84C:\Users\ASUS\Nexter\starter\node_modules\npm-run-all\node_modules\read-pkg\index.js131218956380000000 0
 110C:\Users\ASUS\Nexter\starter\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\comment.js121436361000000000 0
 68C:\Users\ASUS\Nexter\starter\node_modules\date-fns\fp\previousSunday132815673982165781 1
@@ -4722,7 +4722,7 @@
 58C:\Users\ASUS\Nexter\starter\node_modules\unpipe\README.md130787873820000000 0
 69C:\Users\ASUS\Nexter\starter\node_modules\rxjs\add\operator\find.d.ts121436361000000000 0
 93C:\Users\ASUS\Nexter\starter\node_modules\rxjs\_esm2015\internal\scheduled\schedulePromise.js121436361000000000 0
-62C:\Users\ASUS\Nexter\starter\dist\logo-techcrunch.cff4f23d.png132820968121175401 0
+62C:\Users\ASUS\Nexter\starter\dist\logo-techcrunch.cff4f23d.png132821596214412779 0
 57C:\Users\ASUS\Nexter\starter\node_modules\uniq\.npmignore130086087070000000 0
 93C:\Users\ASUS\Nexter\starter\node_modules\escodegen\node_modules\source-map\lib\base64-vlq.js131369414910000000 0
 69C:\Users\ASUS\Nexter\starter\node_modules\es-abstract\2018\ToInt16.js121436361000000000 0
@@ -5416,7 +5416,7 @@
 74C:\Users\ASUS\Nexter\starter\node_modules\rxjs\add\observable\timer.js.map121436361000000000 0
 96C:\Users\ASUS\Nexter\starter\node_modules\rxjs\_esm2015\internal\util\ObjectUnsubscribedError.js121436361000000000 0
 58C:\Users\ASUS\Nexter\starter\node_modules\timsort\index.js131138581980000000 0
-53C:\Users\ASUS\Nexter\starter\dist\gal-6.bdcea0c6.jpeg132820968127384410 0
+53C:\Users\ASUS\Nexter\starter\dist\gal-6.bdcea0c6.jpeg132821596220362785 0
 77C:\Users\ASUS\Nexter\starter\node_modules\posthtml-parser\.github\funding.yml121436361000000000 0
 76C:\Users\ASUS\Nexter\starter\node_modules\caniuse-lite\data\features\apng.js121436361000000000 0
 75C:\Users\ASUS\Nexter\starter\node_modules\rxjs\_esm2015\internal\Subject.js121436361000000000 0
@@ -9100,7 +9100,7 @@
 69C:\Users\ASUS\Nexter\starter\node_modules\rxjs\operators\concatAll.js121436361000000000 0
 80C:\Users\ASUS\Nexter\starter\node_modules\rxjs\src\observable\ArrayObservable.ts121436361000000000 0
 64C:\Users\ASUS\Nexter\starter\node_modules\nan\nan_maybe_43_inl.h132319691430000000 0
-55C:\Users\ASUS\Nexter\starter\dist\house-6.1d7c8fdc.jpeg132820968127364412 0
+55C:\Users\ASUS\Nexter\starter\dist\house-6.1d7c8fdc.jpeg132821596220352776 0
 66C:\Users\ASUS\Nexter\starter\node_modules\date-fns\fp\fromUnixTime132815673981346101 1
 62C:\Users\ASUS\Nexter\starter\node_modules\array-equal\index.js130432365020000000 0
 77C:\Users\ASUS\Nexter\starter\node_modules\caniuse-lite\data\features\audio.js121436361000000000 0
@@ -12865,7 +12865,7 @@
 77C:\Users\ASUS\Nexter\starter\node_modules\date-fns\fp\startOfISOWeek\index.js121436361000000000 0
 82C:\Users\ASUS\Nexter\starter\node_modules\postcss-normalize-whitespace\LICENSE-MIT121436361000000000 0
 80C:\Users\ASUS\Nexter\starter\node_modules\postcss-normalize-whitespace\README.md121436361000000000 0
-57C:\Users\ASUS\Nexter\starter\dist\realtor-2.065b6aa6.jpeg132820968121175401 0
+57C:\Users\ASUS\Nexter\starter\dist\realtor-2.065b6aa6.jpeg132821596214542780 0
 60C:\Users\ASUS\Nexter\starter\node_modules\es-abstract\es7.js121436361000000000 0
 97C:\Users\ASUS\Nexter\starter\node_modules\@parcel\watcher\prebuilds\linux-x64\node.napi.musl.node121436361000000000 0
 75C:\Users\ASUS\Nexter\starter\node_modules\postcss-normalize-url\LICENSE-MIT121436361000000000 0
@@ -13751,7 +13751,7 @@
 58C:\Users\ASUS\Nexter\starter\node_modules\ora\node_modules132815673382320524 1
 75C:\Users\ASUS\Nexter\starter\node_modules\date-fns\esm\getUnixTime\index.js121436361000000000 0
 55C:\Users\ASUS\Nexter\starter\node_modules\ora\readme.md121436361000000000 0
-55C:\Users\ASUS\Nexter\starter\dist\logo-bbc.98c2fb85.png132820968121165403 0
+55C:\Users\ASUS\Nexter\starter\dist\logo-bbc.98c2fb85.png132821596214372773 0
 82C:\Users\ASUS\Nexter\starter\node_modules\date-fns\esm\previousFriday\package.json121436361000000000 0
 71C:\Users\ASUS\Nexter\starter\node_modules\date-fns\locale\gu\index.d.ts121436361000000000 0
 64C:\Users\ASUS\Nexter\starter\node_modules\ora\node_modules\chalk132815673537952955 1
@@ -14773,7 +14773,7 @@
 61C:\Users\ASUS\Nexter\starter\node_modules\lodash\takeRight.js121436361000000000 0
 60C:\Users\ASUS\Nexter\starter\node_modules\lodash\fp\getOr.js121436361000000000 0
 79C:\Users\ASUS\Nexter\starter\node_modules\highlight.js\scss\solarized-dark.scss121436361000000000 0
-53C:\Users\ASUS\Nexter\starter\dist\gal-2.d3fc8289.jpeg132820968127374425 0
+53C:\Users\ASUS\Nexter\starter\dist\gal-2.d3fc8289.jpeg132821596220362785 0
 74C:\Users\ASUS\Nexter\starter\node_modules\date-fns\esm\formatDistanceToNow132815673974643543 1
 83C:\Users\ASUS\Nexter\starter\node_modules\date-fns\locale\ht\_lib\localize\index.js121436361000000000 0
 61C:\Users\ASUS\Nexter\starter\node_modules\lodash\takeWhile.js121436361000000000 0
@@ -15342,7 +15342,7 @@
 64C:\Users\ASUS\Nexter\starter\node_modules\@parcel\runtime-js\src132815673704299592 1
 67C:\Users\ASUS\Nexter\starter\node_modules\lodash\fp\includesFrom.js121436361000000000 0
 62C:\Users\ASUS\Nexter\starter\node_modules\lodash\fp\indexOf.js121436361000000000 0
-55C:\Users\ASUS\Nexter\starter\dist\story-2.61a46617.jpeg132820968127364412 0
+55C:\Users\ASUS\Nexter\starter\dist\story-2.61a46617.jpeg132821596220342780 0
 59C:\Users\ASUS\Nexter\starter\node_modules\lodash\fp\init.js121436361000000000 0
 82C:\Users\ASUS\Nexter\starter\node_modules\date-fns\esm\startOfISOWeek\package.json121436361000000000 0
 71C:\Users\ASUS\Nexter\starter\node_modules\lodash\fp\intersectionWith.js121436361000000000 0
@@ -15843,7 +15843,7 @@
 71C:\Users\ASUS\Nexter\starter\node_modules\iconv-lite\lib\extend-node.js131794416590000000 0
 73C:\Users\ASUS\Nexter\starter\node_modules\core-js\stable\set-immediate.js121436361000000000 0
 97C:\Users\ASUS\Nexter\starter\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\mtest3.c121436361000000000 0
-53C:\Users\ASUS\Nexter\starter\dist\gal-1.12e54c4b.jpeg132820968121145408 0
+53C:\Users\ASUS\Nexter\starter\dist\gal-1.12e54c4b.jpeg132821596213802783 0
 97C:\Users\ASUS\Nexter\starter\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\mtest4.c121436361000000000 0
 78C:\Users\ASUS\Nexter\starter\node_modules\fast-json-stable-stringify\benchmark132815673546552549 1
 70C:\Users\ASUS\Nexter\starter\node_modules\core-js\stable\array\sort.js121436361000000000 0
@@ -17560,7 +17560,7 @@
 73C:\Users\ASUS\Nexter\starter\node_modules\highlight.js\lib\languages\r.js121436361000000000 0
 88C:\Users\ASUS\Nexter\starter\node_modules\css-declaration-sorter\orders\alphabetical.cjs121436361000000000 0
 75C:\Users\ASUS\Nexter\starter\node_modules\highlight.js\lib\languages\rib.js121436361000000000 0
-55C:\Users\ASUS\Nexter\starter\dist\house-3.05e308c3.jpeg132820968121115403 0
+55C:\Users\ASUS\Nexter\starter\dist\house-3.05e308c3.jpeg132821596213782806 0
 73C:\Users\ASUS\Nexter\starter\node_modules\date-fns\esm\parseJSON\index.js121436361000000000 0
 53C:\Users\ASUS\Nexter\starter\node_modules\des.js\test132815673634696243 1
 73C:\Users\ASUS\Nexter\starter\node_modules\bl\node_modules\readable-stream132815673628593745 1
@@ -17776,7 +17776,7 @@
 63C:\Users\ASUS\Nexter\starter\node_modules\get-port\package.json121436361000000000 0
 60C:\Users\ASUS\Nexter\starter\node_modules\get-port\readme.md121436361000000000 0
 63C:\Users\ASUS\Nexter\starter\node_modules\get-intrinsic\.github132815673546900213 1
-54C:\Users\ASUS\Nexter\starter\dist\gal-13.584259c6.jpeg132820968121165403 0
+54C:\Users\ASUS\Nexter\starter\dist\gal-13.584259c6.jpeg132821596214372773 0
 71C:\Users\ASUS\Nexter\starter\node_modules\es-abstract\2019\SameValue.js121436361000000000 0
 68C:\Users\ASUS\Nexter\starter\node_modules\get-intrinsic\CHANGELOG.md121436361000000000 0
 57C:\Users\ASUS\Nexter\starter\node_modules\@babel\core\src132815673703907099 1
@@ -19078,7 +19078,7 @@
 70C:\Users\ASUS\Nexter\starter\node_modules\emphasize\node_modules\chalk132815673537913218 1
 90C:\Users\ASUS\Nexter\starter\node_modules\emphasize\node_modules\supports-color\browser.js121436361000000000 0
 67C:\Users\ASUS\Nexter\starter\node_modules\date-fns\isAfter\index.js121436361000000000 0
-54C:\Users\ASUS\Nexter\starter\dist\gal-14.5d9b8ce5.jpeg132820968127424415 0
+54C:\Users\ASUS\Nexter\starter\dist\gal-14.5d9b8ce5.jpeg132821596220392781 0
 86C:\Users\ASUS\Nexter\starter\node_modules\core-js\modules\es.string.from-code-point.js121436361000000000 0
 88C:\Users\ASUS\Nexter\starter\node_modules\emphasize\node_modules\supports-color\index.js121436361000000000 0
 89C:\Users\ASUS\Nexter\starter\node_modules\emphasize\node_modules\supports-color\readme.md121436361000000000 0
@@ -19445,7 +19445,7 @@
 61C:\Users\ASUS\Nexter\starter\node_modules\date-fns\nextFriday132815673985402425 1
 63C:\Users\ASUS\Nexter\starter\node_modules\date-fns\nextSaturday132815673985422286 1
 63C:\Users\ASUS\Nexter\starter\node_modules\date-fns\nextThursday132815673985432222 1
-53C:\Users\ASUS\Nexter\starter\dist\sprite.75028fa8.svg132820968127394414 0
+53C:\Users\ASUS\Nexter\starter\dist\sprite.75028fa8.svg132821596223732756 0
 93C:\Users\ASUS\Nexter\starter\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map121436361000000000 0
 62C:\Users\ASUS\Nexter\starter\node_modules\date-fns\nextTuesday132815673985452081 1
 64C:\Users\ASUS\Nexter\starter\node_modules\date-fns\nextWednesday132815673985452081 1
@@ -20996,7 +20996,7 @@
 80C:\Users\ASUS\Nexter\starter\node_modules\date-fns\fp\nextThursday\index.js.flow121436361000000000 0
 78C:\Users\ASUS\Nexter\starter\node_modules\date-fns\fp\nextSunday\index.js.flow121436361000000000 0
 77C:\Users\ASUS\Nexter\starter\node_modules\date-fns\fp\nextSunday\package.json121436361000000000 0
-55C:\Users\ASUS\Nexter\starter\dist\house-1.d7c933f8.jpeg132820968121115403 0
+55C:\Users\ASUS\Nexter\starter\dist\house-1.d7c933f8.jpeg132821596213732777 0
 77C:\Users\ASUS\Nexter\starter\node_modules\date-fns\fp\nextSaturday\index.d.ts121436361000000000 0
 75C:\Users\ASUS\Nexter\starter\node_modules\date-fns\fp\nextSaturday\index.js121436361000000000 0
 79C:\Users\ASUS\Nexter\starter\node_modules\date-fns\fp\nextSaturday\package.json121436361000000000 0
@@ -21903,7 +21903,7 @@
 80C:\Users\ASUS\Nexter\starter\node_modules\date-fns\esm\startOfQuarter\index.d.ts121436361000000000 0
 78C:\Users\ASUS\Nexter\starter\node_modules\date-fns\esm\startOfQuarter\index.js121436361000000000 0
 83C:\Users\ASUS\Nexter\starter\node_modules\date-fns\esm\startOfQuarter\index.js.flow121436361000000000 0
-52C:\Users\ASUS\Nexter\starter\dist\index.aa9ea4b8.css132820969727786014 0
+52C:\Users\ASUS\Nexter\starter\dist\index.aa9ea4b8.css132821759698780218 0
 91C:\Users\ASUS\Nexter\starter\node_modules\@parcel\babel-ast-utils\test\fixtures\sequence.js121436361000000000 0
 85C:\Users\ASUS\Nexter\starter\node_modules\cssstyle\lib\properties\borderRightColor.js121436361000000000 0
 82C:\Users\ASUS\Nexter\starter\node_modules\date-fns\esm\startOfQuarter\package.json121436361000000000 0
@@ -24350,7 +24350,7 @@
 75C:\Users\ASUS\Nexter\starter\node_modules\date-fns\esm\addQuarters\index.js121436361000000000 0
 80C:\Users\ASUS\Nexter\starter\node_modules\date-fns\esm\addQuarters\index.js.flow121436361000000000 0
 73C:\Users\ASUS\Nexter\starter\node_modules\date-fns\esm\addMonths\index.js121436361000000000 0
-53C:\Users\ASUS\Nexter\starter\dist\gal-4.d72e221c.jpeg132820968127374425 0
+53C:\Users\ASUS\Nexter\starter\dist\gal-4.d72e221c.jpeg132821596220362785 0
 80C:\Users\ASUS\Nexter\starter\node_modules\core-js\internals\set-to-string-tag.js121436361000000000 0
 77C:\Users\ASUS\Nexter\starter\node_modules\date-fns\esm\addMonths\package.json121436361000000000 0
 76C:\Users\ASUS\Nexter\starter\node_modules\date-fns\esm\addMinutes\index.d.ts121436361000000000 0
@@ -24678,7 +24678,7 @@
 79C:\Users\ASUS\Nexter\starter\node_modules\csso\lib\replace\AttributeSelector.js121436361000000000 0
 67C:\Users\ASUS\Nexter\starter\node_modules\csso\lib\replace\index.js121436361000000000 0
 68C:\Users\ASUS\Nexter\starter\node_modules\csso\lib\replace\Number.js121436361000000000 0
-54C:\Users\ASUS\Nexter\starter\dist\logo-bi.e99e5580.png132820968127384410 0
+54C:\Users\ASUS\Nexter\starter\dist\logo-bi.e99e5580.png132821596220392781 0
 67C:\Users\ASUS\Nexter\starter\node_modules\csso\lib\replace\property132815673675266046 1
 65C:\Users\ASUS\Nexter\starter\node_modules\csso\lib\replace\Url.js121436361000000000 0
 77C:\Users\ASUS\Nexter\starter\node_modules\csso\lib\replace\property\border.js121436361000000000 0
@@ -26424,7 +26424,7 @@
 92C:\Users\ASUS\Nexter\starter\node_modules\caniuse-lite\data\features\css-display-contents.js121436361000000000 0
 92C:\Users\ASUS\Nexter\starter\node_modules\caniuse-lite\data\features\css-element-function.js121436361000000000 0
 88C:\Users\ASUS\Nexter\starter\node_modules\caniuse-lite\data\features\css-env-function.js121436361000000000 0
-57C:\Users\ASUS\Nexter\starter\dist\starter.45ee5e70.js.map132820968128024418 0
+57C:\Users\ASUS\Nexter\starter\dist\starter.45ee5e70.js.map132821596220802782 0
 86C:\Users\ASUS\Nexter\starter\node_modules\caniuse-lite\data\features\css-exclusions.js121436361000000000 0
 83C:\Users\ASUS\Nexter\starter\node_modules\caniuse-lite\data\features\css-filters.js121436361000000000 0
 86C:\Users\ASUS\Nexter\starter\node_modules\caniuse-lite\data\features\css-first-line.js121436361000000000 0
@@ -26472,7 +26472,7 @@
 88C:\Users\ASUS\Nexter\starter\node_modules\caniuse-lite\data\features\css-text-justify.js121436361000000000 0
 79C:\Users\ASUS\Nexter\starter\node_modules\caniuse-lite\data\features\svg-img.js121436361000000000 0
 92C:\Users\ASUS\Nexter\starter\node_modules\caniuse-lite\data\features\css-text-orientation.js121436361000000000 0
-54C:\Users\ASUS\Nexter\starter\dist\gal-10.4a2197fd.jpeg132820968127574416 0
+54C:\Users\ASUS\Nexter\starter\dist\gal-10.4a2197fd.jpeg132821596220382778 0
 86C:\Users\ASUS\Nexter\starter\node_modules\caniuse-lite\data\features\css-textshadow.js121436361000000000 0
 87C:\Users\ASUS\Nexter\starter\node_modules\caniuse-lite\data\features\css-transitions.js121436361000000000 0
 88C:\Users\ASUS\Nexter\starter\node_modules\caniuse-lite\data\features\css-unicode-bidi.js121436361000000000 0
@@ -27829,7 +27829,7 @@
 80C:\Users\ASUS\Nexter\starter\node_modules\@nodelib\fs.scandir\out\types\index.js121436361000000000 0
 86C:\Users\ASUS\Nexter\starter\node_modules\@nodelib\fs.scandir\out\providers\async.d.ts121436361000000000 0
 87C:\Users\ASUS\Nexter\starter\node_modules\@nodelib\fs.scandir\out\providers\common.d.ts121436361000000000 0
-53C:\Users\ASUS\Nexter\starter\dist\gal-8.3b501723.jpeg132820968127384410 0
+53C:\Users\ASUS\Nexter\starter\dist\gal-8.3b501723.jpeg132821596220372773 0
 85C:\Users\ASUS\Nexter\starter\node_modules\@nodelib\fs.scandir\out\providers\common.js121436361000000000 0
 82C:\Users\ASUS\Nexter\starter\node_modules\@nodelib\fs.scandir\out\adapters\fs.d.ts121436361000000000 0
 61C:\Users\ASUS\Nexter\starter\node_modules\@iarna\toml\LICENSE121436361000000000 0
@@ -27985,7 +27985,7 @@
 81C:\Users\ASUS\Nexter\starter\node_modules\@babel\helper-hoist-variables\README.md121012626000000000 0
 84C:\Users\ASUS\Nexter\starter\node_modules\@babel\helper-hoist-variables\lib\index.js121012626000000000 0
 78C:\Users\ASUS\Nexter\starter\node_modules\@babel\helper-get-function-arity\lib132815673628136815 1
-55C:\Users\ASUS\Nexter\starter\dist\house-4.3f40dc7d.jpeg132820968127364412 0
+55C:\Users\ASUS\Nexter\starter\dist\house-4.3f40dc7d.jpeg132821596220352776 0
 87C:\Users\ASUS\Nexter\starter\node_modules\@babel\helper-get-function-arity\package.json121012626000000000 0
 87C:\Users\ASUS\Nexter\starter\node_modules\@babel\helper-get-function-arity\lib\index.js121012626000000000 0
 79C:\Users\ASUS\Nexter\starter\node_modules\@babel\helper-compilation-targets\lib132815673644091207 1
@@ -28134,21 +28134,21 @@
 43C:\Users\ASUS\Nexter\starter\img\sprite.svg132815536449287029 0
 45C:\Users\ASUS\Nexter\starter\img\story-2.jpeg132815536469096871 0
 41C:\Users\ASUS\Nexter\starter\img\text.txt132815536476506579 0
-51C:\Users\ASUS\Nexter\starter\dist\back.40469472.jpg132820968127404423 0
-54C:\Users\ASUS\Nexter\starter\dist\favicon.a4297774.png132820968121095400 0
-54C:\Users\ASUS\Nexter\starter\dist\gal-11.f7b6b991.jpeg132820968121155413 0
-53C:\Users\ASUS\Nexter\starter\dist\gal-3.b4412942.jpeg132820968121145408 0
-53C:\Users\ASUS\Nexter\starter\dist\gal-5.ca315e37.jpeg132820968121145408 0
-53C:\Users\ASUS\Nexter\starter\dist\gal-7.6c5185e8.jpeg132820968121145408 0
-53C:\Users\ASUS\Nexter\starter\dist\gal-9.550d1709.jpeg132820968121155413 0
-52C:\Users\ASUS\Nexter\starter\dist\hero.0a193b10.jpeg132820968121205401 0
-55C:\Users\ASUS\Nexter\starter\dist\house-2.8e1b083c.jpeg132820968127364412 0
-55C:\Users\ASUS\Nexter\starter\dist\house-5.5a9fd50a.jpeg132820968121115403 0
-56C:\Users\ASUS\Nexter\starter\dist\index.aa9ea4b8.css.map132820969727836023 0
-44C:\Users\ASUS\Nexter\starter\dist\index.html132820968121195397 0
-58C:\Users\ASUS\Nexter\starter\dist\logo-forbes.74e7cbea.png132820968127394414 0
-51C:\Users\ASUS\Nexter\starter\dist\logo.bfe54092.png132820968121165403 0
-57C:\Users\ASUS\Nexter\starter\dist\realtor-1.ad315fab.jpeg132820968127394414 0
-57C:\Users\ASUS\Nexter\starter\dist\realtor-3.e949b6ba.jpeg132820968127394414 0
-53C:\Users\ASUS\Nexter\starter\dist\starter.45ee5e70.js132820968127854421 0
-55C:\Users\ASUS\Nexter\starter\dist\story-1.bb75968d.jpeg132820968121095400 0
+51C:\Users\ASUS\Nexter\starter\dist\back.40469472.jpg132821596220532780 0
+54C:\Users\ASUS\Nexter\starter\dist\favicon.a4297774.png132821596213702783 0
+54C:\Users\ASUS\Nexter\starter\dist\gal-11.f7b6b991.jpeg132821596214402771 0
+53C:\Users\ASUS\Nexter\starter\dist\gal-3.b4412942.jpeg132821596213802783 0
+53C:\Users\ASUS\Nexter\starter\dist\gal-5.ca315e37.jpeg132821596213812785 0
+53C:\Users\ASUS\Nexter\starter\dist\gal-7.6c5185e8.jpeg132821596213822786 0
+53C:\Users\ASUS\Nexter\starter\dist\gal-9.550d1709.jpeg132821596214632772 0
+52C:\Users\ASUS\Nexter\starter\dist\hero.0a193b10.jpeg132821596214542780 0
+55C:\Users\ASUS\Nexter\starter\dist\house-2.8e1b083c.jpeg132821596220342780 0
+55C:\Users\ASUS\Nexter\starter\dist\house-5.5a9fd50a.jpeg132821596213792780 0
+56C:\Users\ASUS\Nexter\starter\dist\index.aa9ea4b8.css.map132821759699090216 0
+44C:\Users\ASUS\Nexter\starter\dist\index.html132821596215662776 0
+58C:\Users\ASUS\Nexter\starter\dist\logo-forbes.74e7cbea.png132821596220392781 0
+51C:\Users\ASUS\Nexter\starter\dist\logo.bfe54092.png132821596214492784 0
+57C:\Users\ASUS\Nexter\starter\dist\realtor-1.ad315fab.jpeg132821596220392781 0
+57C:\Users\ASUS\Nexter\starter\dist\realtor-3.e949b6ba.jpeg132821596220402791 0
+53C:\Users\ASUS\Nexter\starter\dist\starter.45ee5e70.js132821596220422772 0
+55C:\Users\ASUS\Nexter\starter\dist\story-1.bb75968d.jpeg132821596213712779 0

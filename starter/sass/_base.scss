@@ -17,6 +17,8 @@ $font-display: 'Josefin Sans', sans-serif;
 //RESPONSIVE BREAKPOINTS
 $bp-largest: 75em; //1200px/16px
 $bp-large: 62.5em; // 1000px/16px
+$bp-medium: 50em; //800px/16px
+$bp-small: 37.5em; //600px/16px
 
 *,
 *::before,
@@ -29,6 +31,10 @@ $bp-large: 62.5em; // 1000px/16px
 html {
   box-sizing: border-box;
   font-size: 62.5%; // 10px/16px = 62.5% -> 1rem = 10px
+
+  @media only screen and (max-width: $bp-largest) {
+    font-size: 50%;
+  }
 }
 
 body {
@@ -45,31 +51,27 @@ body {
     [sidebar-start] 8rem[sidebar-end full-start] minmax(6rem, 1fr)
     [center-start]repeat(8, [col-start] minmax(min-content, 14rem) [col-end])
     [center-end] minmax(6rem, 1fr) [full-end];
-  //1140px/8 = 142.5px  -> 14rem
-
-  // & > * {
-  //   padding: 40px;
-  //   font-size: 3rem;
-  // }
-
-  //MEDIA QUERIES
-  @media only screen and (max-width: $bp-largest) {
-    html {
-      font-size: 50%;
-    }
-  }
 
   @media only screen and (max-width: $bp-large) {
-    .container {
-      // changing the sidebar, removing from side and positioning on top header(adding a new role )
-      grid-template-rows: 6rem 80vh min-content 40vw repeat(3, min-content);
-      grid-template-columns:
-        [full-start] minmax(6rem, 1fr)
-        [center-start]repeat(
-          8,
-          [col-start] minmax(min-content, 14rem) [col-end]
-        )
-        [center-end] minmax(6rem, 1fr) [full-end];
-    }
+    // changing the sidebar, removing from side and positioning on top header(adding a new role )
+    grid-template-rows: 6rem 80vh min-content 40vw repeat(3, min-content);
+    grid-template-columns:
+      [full-start] minmax(6rem, 1fr)
+      [center-start]repeat(8, [col-start] minmax(min-content, 14rem) [col-end])
+      [center-end] minmax(6rem, 1fr) [full-end];
+  }
+
+  @media only screen and (max-width: $bp-medium) {
+    // add a new role for the realtors below the header (add "min-contend"), and then de 80vh from the header occupied 100% of the page(100vh)
+    grid-template-rows: 6rem calc(100vh - 6rem);
   }
 }
+
+//1140px/8 = 142.5px  -> 14rem
+
+// & > * {
+//   padding: 40px;
+//   font-size: 3rem;
+// }
+
+//calc()= in this case calculate the 100vh less the nave bar
