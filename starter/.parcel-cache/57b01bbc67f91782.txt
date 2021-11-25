@@ -1,6 +1,6 @@
 28153
 62C:\Users\ASUS\Nexter\starter\node_modules\create-ecdh\index.js121436361000000000 0
-46C:\Users\ASUS\Nexter\starter\sass\main.css.map132822420252325506 0
+46C:\Users\ASUS\Nexter\starter\sass\main.css.map132822599707209844 0
 69C:\Users\ASUS\Nexter\starter\node_modules\date-fns\locale\te\index.js121436361000000000 0
 73C:\Users\ASUS\Nexter\starter\node_modules\date-fns\esm\locale\ht\index.js121436361000000000 0
 71C:\Users\ASUS\Nexter\starter\node_modules\jake\test\integration\rule.js132361568290000000 0
@@ -117,7 +117,7 @@
 87C:\Users\ASUS\Nexter\starter\node_modules\rxjs\_esm2015\internal\observable\from.js.map121436361000000000 0
 78C:\Users\ASUS\Nexter\starter\node_modules\rxjs\src\operators\withLatestFrom.ts121436361000000000 0
 69C:\Users\ASUS\Nexter\starter\node_modules\spdx-license-ids\index.json121436361000000000 0
-42C:\Users\ASUS\Nexter\starter\sass\main.css132822420252515513 0
+42C:\Users\ASUS\Nexter\starter\sass\main.css132822599707219848 0
 59C:\Users\ASUS\Nexter\starter\node_modules\lodash\isEqual.js121436361000000000 0
 94C:\Users\ASUS\Nexter\starter\node_modules\rxjs\_esm2015\internal\operators\windowToggle.js.map121436361000000000 0
 92C:\Users\ASUS\Nexter\starter\node_modules\rxjs\_esm5\internal\scheduled\scheduleArray.js.map121436361000000000 0
@@ -228,7 +228,7 @@
 50C:\Users\ASUS\Nexter\starter\node_modules\caseless132815673525988038 1
 89C:\Users\ASUS\Nexter\starter\node_modules\rxjs\_esm2015\internal\testing\HotObservable.js121436361000000000 0
 65C:\Users\ASUS\Nexter\starter\node_modules\acorn-walk\dist\walk.js121436361000000000 0
-48C:\Users\ASUS\Nexter\starter\sass\_realtors.scss132821759628509508 0
+48C:\Users\ASUS\Nexter\starter\sass\_realtors.scss132822599697239705 0
 87C:\Users\ASUS\Nexter\starter\node_modules\rxjs\_esm2015\internal\observable\generate.js121436361000000000 0
 89C:\Users\ASUS\Nexter\starter\node_modules\@parcel\codeframe\node_modules\chalk\index.d.ts121436361000000000 0
 91C:\Users\ASUS\Nexter\starter\node_modules\rxjs\_esm5\internal\operators\debounceTime.js.map121436361000000000 0
